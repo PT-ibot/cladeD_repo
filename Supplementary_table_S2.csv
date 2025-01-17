@@ -1,0 +1,94 @@
+code,tree_name,Brum,alt_min,alt_max,final_name,genus,GS_1C,GS_Mbp,logGS,endo,repl_part,GC
+P998,Andinia_barbata_P998,ECU,2800,3000,Andinia barbata P998,Andinia,1.35,1321.9,3.1,PE,75,38.8
+P627,Andinia_dielsii_P627,ECU,2400,3400,Andinia cf. dielsii P627,Andinia,0.76,741.3,2.9,CE,100,37.6
+P1172,Andinia_cf._stalactites_P1172,,,,Andinia cf. stalactites sp.nov. P1172,Andinia,0.71,697.3,2.8,CE,100,39.6
+P688,Andinia_dalstroemii_P688,ECU,2600,3000,Andinia dalstroemii P688,Andinia,2.00,1954.5,3.3,PE,52.8,44.6
+P703,Andinia_erepsis_P703,ECU,2000,2450,Andinia erepsis P703,Andinia,0.59,581.5,2.8,CE,100,38.1
+P813,Andinia_geminipetala_P813,ECU,,,Andinia geminipetala P813,Andinia,0.63,612.1,2.8,CE,100,39.6
+P593,Andinia_hirtzii_P593,ECU,1900,2100,Andinia hirtzii P593,Andinia,2.32,2266.8,3.4,PE,45,43.1
+P756,Andinia_lappacea_P756,ECU,1200,1300,Andinia lappacea P756,Andinia,0.50,489.9,2.7,CE,100,38.1
+P109,Andinia_longiserpens_P109,PER,3000,3200,Andinia longiserpens P109,Andinia,0.91,893.5,3,CE,100,36.4
+P091,Andinia_nummularia_P091,CLM ECU,1600,2450,Andinia nummularia P091,Andinia,0.81,787.6,2.9,CE,100,39.4
+P709,Andinia_nummularia_P709,CLM ECU,1600,2450,Andinia nummularia P709,Andinia,0.60,587.3,2.8,CE,100,38.1
+P708,Andinia_pensilis_P708,ECU,3200,3400,Andinia pensilis P708,Andinia,1.44,1410,3.1,CE,100,38.4
+P701,Andinia_persimilis_P701,ECU,,,Andinia persimilis P701,Andinia,0.52,507.8,2.7,CE,100,37.5
+P622,Andinia_pogonion_P622,ECU,2600,2800,Andinia pogonion P622,Andinia,1.69,1648.1,3.2,PE,61.5,42.9
+P686,Andinia_schizopogon_P686,ECU PER,2400,3100,Andinia schizopogon P686,Andinia,3.94,3849.1,3.6,PE,26.4,42.2
+P619,Andinia_spiralis_P619,CLM ECU PER,1800,3500,Andinia spiralis P619,Andinia,0.91,885.7,2.9,CE,100,38.2
+P706,Andinia_stalactites_P706,ECU,2600,3000,Andinia stalactites P706,Andinia,0.68,669.8,2.8,CE,100,38.7
+P999,Andinia_uchucayensis_P999,ECU,3044,3244,Andinia uchucayensis P999,Andinia,1.51,1477.6,3.2,PE,69.4,42.2
+P1007,Andreettaea_ocellus_P1007,ECU,2800,2900,Andreettaea ocellus P1007,Andreettaea,0.56,545.1,2.7,CE,100,34.9
+P1138,Andreettaea_ocellus_P1138,ECU,2800,2900,Andreettaea ocellus P1138,Andreettaea,0.56,551.1,2.7,CE,100,35
+P1119,Muscarella_bota-caucanensis_P1119,CLM,1600,1800,Muscarella bota-caucanensis P1119,Andreettaea,0.41,401.9,2.6,CE,100,37.1
+P1137,Muscarella_furcatipetala_P1137,ECU,1200,1400,Muscarella furcatipetala P1137,Andreettaea,0.31,304.1,2.5,CE,100,35.7
+P249,Muscarella_macroblepharis_P249,CLM ECU PER,1600,2350,Muscarella macroblepharis P249,Andreettaea,0.57,555.4,2.7,CE,100,35.5
+P746,Muscarella_marginata_P746,MXG MXS MXT BLZ GUA HON NIC PAN,180,1380,Muscarella marginata P746,Andreettaea,0.39,378,2.6,CE,100,34.7
+P032,Muscarella_megalops_P032,ECU,1500,2400,Muscarella megalops P032,Andreettaea,0.60,586.6,2.8,CE,100,35.2
+P580,Muscarella_samacensis_P580,COS GUA VEN CLM ECU BZN,600,2400,Muscarella samacensis P580,Andreettaea,0.30,289.1,2.5,CE,100,36
+P288,Muscarella_schudelii_P288,ECU,1100,1700,Muscarella schudelii P288,Andreettaea,0.37,357.4,2.6,CE,100,34.4
+P504,Dryadella_albicans_P504,ECU,400,2400,Dryadella albicans P504,Dryadella,0.50,485.3,2.7,CE,100,37.7
+P811,Dryadella_aurea_P811,ECU PER,700,950,Dryadella aurea P811,Dryadella,0.66,642.2,2.8,CE,100,37.2
+P527,Dryadella_aviceps_P527,BZE BZL BZS PAR,300,1500,Dryadella aviceps P527,Dryadella,0.77,750,2.9,CE,100,36.8
+P021,Dryadella_barrowii_P021,ECU,1900,2100,Dryadella barrowii P021,Dryadella,0.51,497.5,2.7,CE,100,39.5
+P079,Dryadella_cristata_P079,CLM,,,Dryadella cristata P079,Dryadella,0.60,585.4,2.8,CE,100,35.7
+P142,Dryadella_guatemalensis_P142,MXG MXS MXT COS GUA PAN CLM,300,500,Dryadella guatemalensis P142,Dryadella,0.43,419.3,2.6,CE,100,36.5
+P353,Dryadella_hirtzii_P353,ECU,2000,3400,Dryadella hirtzii P353,Dryadella,0.52,506.3,2.7,CE,100,38.4
+P838,Dryadella_liliputiana_P838,BOL BZL BZS,700,1700,Dryadella liliputiana P838,Dryadella,0.86,836.6,2.9,CE,100,37.8
+P1016,Dryadella_pusiola_P1016,CLM ECU,2000,2600,Dryadella pusiola P1016,Dryadella,0.49,477.1,2.7,CE,100,38.3
+P074,Dryadella_simula_P074,CLM ECU PER,2000,3100,Dryadella simula P074,Dryadella,0.54,524.1,2.7,CE,100,37.9
+P882,Dryadella_yupanki_P882,BOL,1900,2500,Dryadella yupanki P882,Dryadella,0.69,679.4,2.8,CE,100,36.5
+P104,Platystele_apoloae_P104,ECU,350,400,Platystele apoloae P104,Platystele,0.47,460.8,2.7,CE,100,38.3
+P962,Platystele_baqueroi_P962,ECU,680,1080,Platystele baqueroi P962,Platystele,0.45,437.6,2.6,CE,100,34.8
+P1235,Platystele_cedriensis_P1235,ECU,1400,1600,Platystele cedriensis P1235,Platystele,0.36,350.7,2.5,CE,100,37.6
+P147,Platystele_cf._consobrina_P147,CLM,1600,2500,Platystele cf. consobrina P147,Platystele,0.73,714.4,2.9,CE,100,40.5
+P971,Platystele_compacta_P971,MXT BLZ COS GUA HON PAN,350,2500,Platystele compacta P971,Platystele,0.64,623.4,2.8,CE,100,34.3
+P270,Platystele_examen-culicum_P270,CLM ECU PER,1500,2800,Platystele examen-culicum P270,Platystele,0.63,614.9,2.8,PE,85.4,36.9
+P595,Platystele_hirtzii_P595,ECU,2000,2700,Platystele hirtzii P595,Platystele,0.38,370.8,2.6,CE,100,36.1
+P173,Platystele_misasiana_P173,CLM,2000,2100,Platystele misasiana P173,Platystele,1.10,1071.9,3,CE,100,29.5
+P038,Platystele_misera_P038,CLM ECU PER,1800,2900,Platystele misera P038,Platystele,0.71,694.4,2.8,CE,100,37.7
+P503,Platystele_ortiziana_P503,PAN CLM,,,Platystele ortiziana P503,Platystele,0.61,600,2.8,CE,100,38.6
+P224,Platystele_stenostachya_P224,MXC MXG MXS MXT BLZ COS GUA HON NIC PAN FRG GUY SUR VEN BOL CLM ECU PER BZN,0,1700,Platystele stenostachya P224,Platystele,0.56,544.4,2.7,CE,100,37
+P301,Platystele_umbellata_P301,CLM,600,1600,Platystele umbellata P301,Platystele,0.52,510,2.7,CE,100,36.5
+P835,Platystele_aurea_P835,PAN CLM ECU,1100,1400,Platystele aurea P835,Rubellia,0.81,792.1,2.9,CE,100,34.9
+P1086,Specklinia_acrisepala_P1086,COS HON PAN CLM ECU,100,1000,Specklinia acrisepala P1086,Sarcinula,0.90,883.9,2.9,CE,100,36.6
+P1257,Specklinia_areldii_P1257,PAN CLM,750,1200,Specklinia areldii P1257,Sarcinula,0.64,622.9,2.8,CE,100,37.4
+P227,Specklinia_brighamii_P227,MXG MXS MXT BLZ COS ELS GUA HON NIC PAN CUB HAI JAM ECU,300,800,Specklinia brighamii P227,Sarcinula,1.06,1038.3,3,PE,47.4,36.6
+P1203,Specklinia_icterina_P1203,COS,500,920,Specklinia icterina P1203,Sarcinula,1.06,1038.6,3,PE,52.7,35.8
+P526,Specklinia_scolopax_P526,CLM,100,300,Specklinia scolopax P526,Sarcinula,0.87,854.7,2.9,PE,75.3,37
+P033,Specklinia_simmleriana_P033,COS GUA HON PAN CLM,20,1000,Specklinia simmleriana P033,Sarcinula,0.67,654.3,2.8,PE,67.8,37
+P948,Specklinia_vierlingii_P948,COS,300,650,Specklinia vierlingii P948,Sarcinula,1.08,1052.1,3,PE,41.5,35.6
+P012,Scaphosepalum_antenniferum_P012,BOL CLM ECU PER,1500,2550,Scaphosepalum antenniferum P012,Scaphosepalum,1.32,1289.4,3.1,CE,100,37.1
+P118,Scaphosepalum_antenniferum_P118,BOL CLM ECU PER,1500,2550,Scaphosepalum antenniferum P118,Scaphosepalum,1.42,1386.7,3.1,CE,100,37.2
+P050,Scaphosepalum_beluosum_P050,ECU,1500,2200,Scaphosepalum beluosum P050,Scaphosepalum,0.44,431.3,2.6,CE,100,36.6
+P024,Scaphosepalum_swertiifolium_P024,CLM ECU,600,2200,Scaphosepalum bicolor P024,Scaphosepalum,0.43,420.9,2.6,CE,100,37.5
+P119,Scaphosepalum_bicristatum_P119,CLM,,,Scaphosepalum bicristatum P119,Scaphosepalum,0.55,535.3,2.7,CE,100,39.1
+P025,Scaphosepalum_digitale_P025,ECU,1200,1300,Scaphosepalum digitale P025,Scaphosepalum,0.51,495.2,2.7,CE,100,36.5
+P046,Scaphosepalum_microdactylum_P046,MXT COS GUA HON PAN CLM ECU,300,2500,Scaphosepalum microdactylum P046,Scaphosepalum,0.53,516,2.7,CE,100,37.5
+P258,Scaphosepalum_odontochilum_P258,CLM ECU,1750,2400,Scaphosepalum odontochilum P258,Scaphosepalum,0.49,481.1,2.7,CE,100,36.6
+P120,Scaphosepalum_ophidion_P120,CLM ECU,1450,2500,Scaphosepalum ophidion P120,Scaphosepalum,0.55,540.6,2.7,CE,100,36.9
+P1241,Scaphosepalum_ovulare_P1241,ECU,600,1200,Scaphosepalum ovulare P1241,Scaphosepalum,0.61,594.6,2.8,CE,100,38.8
+P121,Scaphosepalum_pulvinare_P121,CLM ECU,1400,1600,Scaphosepalum pulvinare P121,Scaphosepalum,1.40,1368.9,3.1,CE,100,36.7
+P056,Scaphosepalum_sp._P056,not available,,,Scaphosepalum sp P056,Scaphosepalum,1.22,1194.8,3.1,CE,100,37.4
+P254,Scaphosepalum_dalstroemii_P254,ECU,2600,3150,Scaphosepalum ursinum P254,Scaphosepalum,0.41,405.1,2.6,CE,100,37.5
+P297,Specklinia_rinkei_P297,ECU,,,Specklinia rinkei P297,Scaphosepalum,0.42,415.1,2.6,CE,100,37.6
+P1274,Specklinia_barbae_P1274,COS PAN,1600,2400,Specklinia barbae P1274,Specklinia,0.33,325.8,2.5,CE,100,36
+P810,Specklinia_colombiana_P810,COS PAN CLM ECU,100,1000,Specklinia colombiana P810,Specklinia,0.66,641.9,2.8,PE,73.1,33.9
+P228,Specklinia_costaricensis_P228,COS PAN CLM ECU,650,1800,Specklinia costaricensis P228,Specklinia,0.63,620.7,2.8,CE,100,34.9
+P1141,Specklinia_cucumeris_P1141,PAN,1600,1800,Specklinia cucumeris P1141,Specklinia,0.38,371,2.6,CE,100,37.3
+P759,Specklinia_dressleri_P759,PAN,900,1100,Specklinia dressleri P759,Specklinia,0.86,845.6,2.9,PE,44.1,40.7
+P466,Specklinia_fulgens_P466,COS PAN,950,2400,Specklinia fulgens P466,Specklinia,0.53,518.6,2.7,CE,100,35.2
+P010,Specklinia_grobyi_P010,MXG MXT BLZ COS ELS GUA HON NIC PAN FRG GUY SUR VEN BOL CLM ECU PER BZE BZL BZN BZS,50,3200,Specklinia grobyi P010,Specklinia,0.57,559.9,2.7,CE,100,33.5
+P1158,Specklinia_guanacastensis_P1158,COS NIC,80,1100,Specklinia guanacastensis P1158,Specklinia,1.41,1379.6,3.1,PE,25.5,22.5
+P1156,Specklinia_lanceola_P1156,MXG MXS MXT COS GUA JAM CLM,800,1500,Specklinia lanceola P1156,Specklinia,0.62,602.2,2.8,CE,100,34.8
+P761,Specklinia_microphylla_P761,MXG MXS MXT BLZ COS ELS GUA HON NIC PAN JAM ECU,30,400,Specklinia microphylla P761,Specklinia,0.49,480.1,2.7,CE,100,36.2
+P221,Specklinia_montezumae_P221,COS,500,700,Specklinia montezumae P221,Specklinia,0.68,662.7,2.8,CE,100,33.8
+P1197,Specklinia_morganii_P1197,ECU,1300,1500,Specklinia morganii P1197,Specklinia,0.55,540.5,2.7,CE,100,34.7
+P1075,Specklinia_pectinifera_P1075,ECU,1700,1900,Specklinia pectinifera P1075,Specklinia,0.48,469.2,2.7,CE,100,37.2
+P123,Specklinia_picta_P123,MXG MXS MXT BLZ COS GUA HON PAN CUB DOM FRG GUY SUR VEN BOL CLM ECU PER BZL BZN BZS,50,2100,Specklinia picta P123,Specklinia,0.57,557.3,2.7,CE,100,34.6
+P283,Specklinia_producta_P283,ECU,2000,2900,Specklinia producta P283,Specklinia,0.50,491,2.7,CE,100,36.3
+P229,Specklinia_remotiflora_P229,COS PAN CLM,1750,2500,Specklinia remotiflora P229,Specklinia,0.59,578.3,2.8,CE,100,34.4
+P394,Specklinia_tribuloides_P394,MXE MXG MXS MXT BLZ COS GUA HON NIC PAN CUB DOM HAI JAM SUR,300,1300,Specklinia tribuloides P394,Specklinia,0.47,461,2.7,CE,100,35.2
+P388,Specklinia_vittariifolia_P388,MXT BLZ COS ELS GUA HON NIC PAN,400,1400,Specklinia vittariifolia P388,Specklinia,0.55,540.8,2.7,CE,100,35.9
+P552,Teagueia_moisesii_P552,PER,3400,3500,Teagueia moisesii P552,Teagueia,1.29,1260.6,3.1,CE,100,34.1
+P1279,Teagueia_rex_P1279,CLM,2100,2300,Teagueia rex P1279,Teagueia,1.21,1181.3,3.1,CE,100,31.6
+P634,Teagueia_teaguei_P634,ECU,3000,3400,Teagueia teaguei P634,Teagueia,1.35,1323.4,3.1,CE,100,30.8
